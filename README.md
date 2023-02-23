@@ -1,2 +1,2 @@
 # network-splitter-ICND1
-Calculete networks and subnets for ICND1
+Calculate networks and subnets for ICND1
